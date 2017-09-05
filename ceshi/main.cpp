@@ -252,4 +252,7 @@ int main() {
 	st = L;
 	lex();
 	getchar();
+
+	cout << "添加了一些说明" << endl;
+	return 0;
 }
